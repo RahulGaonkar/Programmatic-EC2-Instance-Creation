@@ -18,3 +18,6 @@ The Mini-Homework was divided into two parts:
 ‎SSH into the newly created instance manually<br>
 ‎Take screenshot of SSH into the EC2 command and AWS EC2 Dashboard<br>
 ‎Terminate the newly created instance<br>
+
+## Instructions
+[Programmatic-EC2-Instance-Creation-Instructions](Programmatic-EC2-Instance-Creation-Instructions.pdf)
