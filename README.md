@@ -6,7 +6,7 @@ Automated the creation of EC2 instances using the AWS SDK for Javascript
 The Mini-Homework was divided into two parts:
 
 **Mini-Homework Part 1:**<br>
-‎Create EC2 instance<br>  
+‎Create EC2 instance  
 ‎List all EC2 instances (Instance ID, Public IP, Region)<br>
 ‎Terminate EC2 instance<br>
 
